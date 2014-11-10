@@ -40,5 +40,6 @@ func PanicIf(err error) {
 func main() {
 	http.HandleFunc("/", returnJSON)
 	err := http.ListenAndServe(":"+os.Getenv("PORT"), nil)
+
 	PanicIf(err)
 }
