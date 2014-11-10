@@ -1,1 +1,1 @@
-web: app
+web: devcon-static-json-hk
