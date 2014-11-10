@@ -20,7 +20,8 @@ func returnJSON(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "application/json")
 	if err != nil {
-		errorMsg := map[string]string{"msg": "file not found"}
+		w.WriteHeader(404) // HTTP 500
+		errorMsg := map[string]error{"msg": err}
 		mapB, _ := json.Marshal(errorMsg)
 		w.Write(mapB)
 	} else {
