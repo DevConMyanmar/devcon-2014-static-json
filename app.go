@@ -12,7 +12,8 @@ type data []map[string]string
 func returnJSON(w http.ResponseWriter, r *http.Request) {
 	url := strings.Replace(r.URL.String(), "/", "", 1)
 
-	jsonFile, _ := ioutil.ReadFile(url + ".json")
+	jsonFile, err := ioutil.ReadFile(url + ".json")
+	PanicIf(err)
 
 	var p data
 
@@ -22,12 +23,12 @@ func returnJSON(w http.ResponseWriter, r *http.Request) {
 	w.Write(jsonFile)
 }
 
+func PanicIf(err error) {
+	if err != nil {
+		panic(err)
+	}
+}
+
 func init() {
 	http.HandleFunc("/", returnJSON)
-
-	// err := http.ListenAndServe(":9090", nil)
-
-	//	if err != nil {
-	//		log.Fatal("ListenAndServe: ", err)
-	//	}
 }
