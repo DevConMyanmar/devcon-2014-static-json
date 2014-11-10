@@ -12,7 +12,7 @@ type data []map[string]string
 func returnJSON(w http.ResponseWriter, r *http.Request) {
 	url := strings.Replace(r.URL.String(), "/", "", 1)
 
-	jsonFile, _ := ioutil.ReadFile("./" + url + ".json")
+	jsonFile, _ := ioutil.ReadFile(url + ".json")
 
 	var p data
 
