@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"os"
 )
 
 type data []map[string]string
@@ -38,6 +39,6 @@ func PanicIf(err error) {
 
 func main() {
 	http.HandleFunc("/", returnJSON)
-	err := http.ListenAndServe(":9090", nil)
+	err := http.ListenAndServe(":"+os.Getenv("PORT"), nil)
 	PanicIf(err)
 }
