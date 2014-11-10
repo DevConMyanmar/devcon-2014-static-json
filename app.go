@@ -3,16 +3,17 @@ package main
 import (
 	"encoding/json"
 	"io/ioutil"
+	"log"
 	"net/http"
-	"strings"
 )
 
 type data []map[string]string
 
 func returnJSON(w http.ResponseWriter, r *http.Request) {
-	url := strings.Replace(r.URL.String(), "/", "", 1)
+	// url := strings.Replace(r.URL.String(), "/", "", 1)
 
-	jsonFile, err := ioutil.ReadFile("./" + url + ".json")
+	log.Println("url " + r.URL.String())
+	jsonFile, err := ioutil.ReadFile("./" + r.URL.String() + ".json")
 
 	var p data
 
@@ -20,7 +21,7 @@ func returnJSON(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "application/json")
 	if err != nil {
-		w.WriteHeader(404) // HTTP 500
+		w.WriteHeader(404) // HTTP 404
 		errorMsg := map[string]error{"msg": err}
 		mapB, _ := json.Marshal(errorMsg)
 		w.Write(mapB)
@@ -35,6 +36,6 @@ func PanicIf(err error) {
 	}
 }
 
-func init() {
+func main() {
 	http.HandleFunc("/", returnJSON)
 }
