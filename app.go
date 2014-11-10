@@ -38,4 +38,6 @@ func PanicIf(err error) {
 
 func main() {
 	http.HandleFunc("/", returnJSON)
+	err := http.ListenAndServe(":9090", nil)
+	PanicIf(err)
 }
