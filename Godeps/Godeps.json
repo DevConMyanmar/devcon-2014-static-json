@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/yelinaung/devcon-static-json-hk",
+	"ImportPath": "github.com/DevConMyanmar/devcon-2014-static-json",
 	"GoVersion": "go1.3.3",
 	"Deps": []
 }
