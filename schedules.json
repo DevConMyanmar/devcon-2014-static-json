@@ -228,8 +228,8 @@
       "favourite": "false",
       "talk_type": "3",
       "room": "205",
-      "from_time": "11:00",
-      "to_time": "12:00",
+      "from_time": "14:00",
+      "to_time": "15:00",
       "speakers": [
         "1",
         "2",
@@ -569,8 +569,8 @@
       "favourite": "false",
       "talk_type": "2",
       "room": "205",
-      "from_time": "15:00",
-      "to_time": "16:00",
+      "from_time": "09:00",
+      "to_time": "10:00",
       "speakers": [
         "38"
       ]
@@ -646,7 +646,7 @@
       "talk_type": "4",
       "room": "mcf",
       "from_time": "09:00",
-      "to_time": "10:00",
+      "to_time": "12:00",
       "speakers": []
     }
   ]
