@@ -6,7 +6,7 @@
       "start": "10:00",
       "end": "11:00",
       "click_block": "false",
-      "sub_title": "click to view",
+      "sub_title": "Click to view",
       "date": "0",
       "associated_talk": [
         "7",
@@ -20,7 +20,7 @@
       "start": "11:00",
       "end": "12:00",
       "click_block": "false",
-      "sub_title": "click to view",
+      "sub_title": "Click to view",
       "date": "0",
       "associated_talk": [
         "11",
@@ -44,7 +44,7 @@
       "start": "13:00",
       "end": "14:00",
       "click_block": "false",
-      "sub_title": "",
+      "sub_title": "Click to view",
       "date": "0",
       "associated_talk": [
         "9",
@@ -59,7 +59,7 @@
       "start": "14:00",
       "end": "15:00",
       "click_block": "false",
-      "sub_title": "",
+      "sub_title": "Click to view",
       "date": "0",
       "associated_talk": [
         "10",
@@ -74,7 +74,7 @@
       "start": "15:00",
       "end": "16:00",
       "click_block": "false",
-      "sub_title": "",
+      "sub_title": "Click to view",
       "date": "0",
       "associated_talk": [
         "11",
@@ -89,7 +89,7 @@
       "start": "16:00",
       "end": "17:00",
       "click_block": "false",
-      "sub_title": "",
+      "sub_title": "Click to view",
       "date": "0",
       "associated_talk": [
         "12",
@@ -104,13 +104,13 @@
       "start": "09:00",
       "end": "10:00",
       "click_block": "false",
-      "sub_title": "click to view",
+      "sub_title": "Click to view",
       "date": "1",
       "associated_talk": [
-		"26",
-		"32",
-		"38",
-		"43"
+        "26",
+        "32",
+        "38",
+        "43"
       ]
     },
     {
@@ -119,7 +119,7 @@
       "start": "10:00",
       "end": "11:00",
       "click_block": "false",
-      "sub_title": "click to view",
+      "sub_title": "Click to view",
       "date": "1",
       "associated_talk": [
         "27",
@@ -134,7 +134,7 @@
       "start": "11:00",
       "end": "12:00",
       "click_block": "false",
-      "sub_title": "click to view",
+      "sub_title": "Click to view",
       "date": "1",
       "associated_talk": [
         "28",
@@ -159,12 +159,12 @@
       "start": "13:00",
       "end": "14:00",
       "click_block": "false",
-      "sub_title": "",
+      "sub_title": "Click to view",
       "date": "1",
       "associated_talk": [
-      	"29",
-      	"35",
-      	"41"
+        "29",
+        "35",
+        "41"
       ]
     },
     {
@@ -173,12 +173,12 @@
       "start": "14:00",
       "end": "15:00",
       "click_block": "false",
-      "sub_title": "",
+      "sub_title": "Click to view",
       "date": "1",
       "associated_talk": [
-      	"30",
-      	"36",
-      	"42"
+        "30",
+        "36",
+        "42"
       ]
     },
     {
@@ -187,11 +187,11 @@
       "start": "15:00",
       "end": "16:00",
       "click_block": "false",
-      "sub_title": "",
+      "sub_title": "Click to view",
       "date": "1",
       "associated_talk": [
-      	"31",
-      	"37"
+        "31",
+        "37"
       ]
     }
   ]
