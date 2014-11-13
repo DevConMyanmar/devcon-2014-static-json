@@ -115,16 +115,16 @@
     {
       "id": "17",
       "name": "Poe Poe Myint Swe",
-      "title": "",
-      "description": "",
+      "title": "Software Engineer at Zwenexsys",
+      "description": "Working as an Android Developer. Personally, I've made apps such as Internet Watch, Speak Your Wishes, etc. \nMy website is at http://poepoemyintswe.com. \nCheck my codes at https://github.com/PoePoeMyintSwe",
       "photo": "http://devconmyanmar.org/2014/img/Poe_Poe_Myint_Swe.jpg"
     },
     {
       "id": "18",
       "name": "Sean Lin",
-      "title": "",
-      "description": "",
-      "photo": ""
+      "title": "Web Evangelist",
+      "description": "Sean Lin is developer, entrepreneurs and web evangelist. He has been in Web Industry for past 10 years, working and consulting for companies like Six Apart, Google, Zoho and Salesforce. He spends most of his time working on front-end web projects for various start-ups using cutting edge languages and frameworks. He has recently relocated Myanmar to lay foundation for his enterprise start-up.",
+      "photo": "https://lh6.googleusercontent.com/1EZPNLmBd-RKDHWzBcx135P7bdZUj46zec87w_yfGrZ-P0mvvPMFDevZRh4QuSxZdARG=w2560-h1246"
     },
     {
       "id": "19",
@@ -136,8 +136,8 @@
     {
       "id": "20",
       "name": "Arkar Min Aung",
-      "title": "",
-      "description": "",
+      "title": "iOS developer @ Nex",
+      "description": "Arkar is an iOS developer and he currently works at Nex. At Nex, Arkar and his team happily collaborate to build awesome mobile apps. \nArkar is a curious explorer and loves to indulge his free time finding new things out. \nThat’s how he found out about functional programming paradigm and saw a whole new world which he has never seen before. \nHe loves not just Computer Science but also various other fields, including Neuroscience, Mathematics, Astrophysics, Cryptography and Cars. \n\nTwitter: @ark_aung \nLinkedIn: http://www.linkedin.com/pub/arkar-aung/30/b01/8a0",
       "photo": "http://devconmyanmar.org/2014/img/Arkar_Min_Aung(Nex).jpg"
     },
     {
@@ -192,9 +192,9 @@
     {
       "id": "28",
       "name": "Ye Wint Ko",
-      "title": "",
-      "description": "",
-      "photo": ""
+      "title": "CTO @ Bindez",
+      "description": "Cofounder and Chief Architect at a startup called Bindez. He has been in IT industry since 6 years ago developing information systems in the area of information retrieval, web archiving and content analysis. ",
+      "photo": "https://lh6.googleusercontent.com/3fK5OP27QHIO9jElqIKq8SBki0Gas0JDh06gch3Ot4JRT5FdQjXPiV6Nb5LothbYHXFO=w2560-h1246"
     },
     {
       "id": "29",
