@@ -2,7 +2,7 @@
   "speakers": [
     {
       "id": "1",
-      "name": "Wai Lin Tun",
+      "name": "Wayne Tun Myint",
       "title": "",
       "description": "",
       "photo": ""
@@ -12,7 +12,7 @@
       "name": "Ravi Chhabra",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "https://scontent-a.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1619393_10151838336577714_1930747688_n.jpg?oh=cb2b947f52da5c1e81103d14a7f2f47e&oe=54EA6BC2"
     },
     {
       "id": "3",
@@ -32,22 +32,22 @@
       "id": "5",
       "name": "Thar Htet",
       "title": "",
-      "description": "",
+      "description": "https://scontent-b.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/156561_4351520317534_1917272354_n.jpg?oh=adc4f17a865a2f61582425009e88af5a&oe=551B1251",
       "photo": ""
     },
     {
       "id": "6",
       "name": "Ye Lin Aung",
-      "title": "",
-      "description": "",
-      "photo": ""
+      "title": "A curious programmer @ Zwenexsys. World class procrastinator.",
+      "description": "A curious programmer @ Zwenexsys. Highly motivated and result-oriented. World class procrastinator. Software architect-wannabe. Live and breathe open source. Love Calvin & Hobbes.",
+      "photo": "https://avatars.githubusercontent.com/u/275120?v=3"
     },
     {
       "id": "7",
       "name": "Myat Min Han",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/Myat_Min_Han.jpg"
     },
     {
       "id": "8",
@@ -61,7 +61,7 @@
       "name": "Thet Aung Min Latt",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/ThetAung.jpg"
     },
     {
       "id": "10",
@@ -96,7 +96,7 @@
       "name": "Ye Maung",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/YeMaung.png"
     },
     {
       "id": "15",
@@ -117,7 +117,7 @@
       "name": "Poe Poe Myint Swe",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/Poe_Poe_Myint_Swe.jpg"
     },
     {
       "id": "18",
@@ -131,28 +131,28 @@
       "name": "Nyan Lynn Htut",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/nyan_%20Lynn_Htut.jpg"
     },
     {
       "id": "20",
       "name": "Arkar Min Aung",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/Arkar_Min_Aung(Nex).jpg"
     },
     {
       "id": "21",
       "name": "Soe Thiha",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/Soe_Thiha.jpg"
     },
     {
       "id": "22",
       "name": "Thura Myo Nyunt",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/ThuyaMyoNyunt.jpg"
     },
     {
       "id": "23",
@@ -166,28 +166,28 @@
       "name": "Aung Win Myat",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/Aung_Win_Myat.jpg"
     },
     {
       "id": "25",
-      "name": "Htoo Lin",
+      "name": "Htoon Lin",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/Htoon_Lin.jpg"
     },
     {
       "id": "26",
       "name": "Tin Aung Lin",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/TinAungLin.jpg"
     },
     {
       "id": "27",
       "name": "Tran Tuan Anh",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/TranTuanAnh.png"
     },
     {
       "id": "28",
@@ -201,28 +201,14 @@
       "name": "Zaw Thet Aung",
       "title": "",
       "description": "",
-      "photo": ""
-    },
-    {
-      "id": "30",
-      "name": "Set Kyar Wa Lar",
-      "title": "",
-      "description": "",
-      "photo": ""
-    },
-    {
-      "id": "31",
-      "name": "Hein Zaw Htet",
-      "title": "",
-      "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/ZawThetAung.jpg"
     },
     {
       "id": "32",
       "name": "Swan Htet Aung",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/SwanHtetAung.jpg"
     },
     {
       "id": "33",
@@ -250,14 +236,7 @@
       "name": "Htoo Myat Aung",
       "title": "",
       "description": "",
-      "photo": ""
-    },
-    {
-      "id": "37",
-      "name": "Naing Win",
-      "title": "",
-      "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2014/img/HtooMyatAung.jpg"
     },
     {
       "id": "38",
