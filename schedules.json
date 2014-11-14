@@ -220,6 +220,36 @@
       ]
     },
     {
+      "id": "17",
+      "title": "The Art of killing bugs",
+      "description": "The Art of killing bugs",
+      "photo": "",
+      "date": "2014-11-15",
+      "favourite": "false",
+      "talk_type": "2",
+      "room": "205",
+      "from_time": "15:00",
+      "to_time": "16:00",
+      "speakers": [
+        "29"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Cocos2DX Game Development Engine",
+      "description": "Cocos2DX Game Development Engine",
+      "photo": "",
+      "date": "2014-11-15",
+      "favourite": "false",
+      "talk_type": "2",
+      "room": "205",
+      "from_time": "11:00",
+      "to_time": "12:00",
+      "speakers": [
+        "25"
+      ]
+    },
+    {
       "id": "16",
       "title": "Lightening Talks",
       "description": "-",
@@ -235,25 +265,10 @@
         "2",
         "3",
         "4",
-        "5",
+        "23",
         "6",
         "7",
         "8"
-      ]
-    },
-    {
-      "id": "17",
-      "title": "The Art of killing bugs",
-      "description": "The Art of killing bugs",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "205",
-      "from_time": "15:00",
-      "to_time": "16:00",
-      "speakers": [
-        "29"
       ]
     },
     {
@@ -319,7 +334,7 @@
     {
       "id": "22",
       "title": "My First Contact With Functional Programming",
-      "description": "My First Contact With Functional Programming",
+      "description": "This talk is based on the experience of a developer when he ventured into the world of functional programming with Haskell. Haskell is a profound language and learning it is a hugely rewarding experience. Coding in Haskell changes the way you think when you are approaching problems. Haskell helps to create software that is short, fast, and safe. Learning Haskell is whole lot of fun and you will have a wonderful experience learning it. One will have a better vision of functional paradigm in the course of learning Haskell and can venture into other functional programming languages too.",
       "photo": "",
       "date": "2014-11-15",
       "favourite": "false",
@@ -518,7 +533,7 @@
     {
       "id": "35",
       "title": "Crawling and precise data extraction with Apache Nutch",
-      "description": "Crawling and precise data extraction with Apache Nutch",
+      "description": "Since internet and online media are become matured, the collection and analysis of data from varieties of internet sources play a very important role for businesses to make better decision and to serve their users with more relevant information. Here in this talk, the audience will gain knowledge on web crawler and html parsing to archive and analyze the content from the websites. The presentation will focus on matured and opensource web crawler called Apache Nutch and its weakness and strength in production systems.",
       "photo": "",
       "date": "2014-11-16",
       "favourite": "false",
@@ -548,7 +563,7 @@
     {
       "id": "37",
       "title": "App Development for Web and Mobile with AngularJS",
-      "description": "-",
+      "description": "AngularJS has become favourite choice for front-end developers for its low learning curve and large sets of features with solid support for both Web and Mobile Web. With the help of Ionic Framework, developing mobile web app or hybrid app has become swift and smooth. This talk will cover some basic technique and concept to create a simple yet interactive mobile and web app using AngularJS and Ionic Framework.",
       "photo": "",
       "date": "2014-11-16",
       "favourite": "false",
@@ -649,5 +664,5 @@
       "to_time": "12:00",
       "speakers": []
     }
-  ]
+  ],
 }
