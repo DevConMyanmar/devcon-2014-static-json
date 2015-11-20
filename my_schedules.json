@@ -9,9 +9,9 @@
       "sub_title": "Click to view",
       "date": "0",
       "associated_talk": [
-        "7",
-        "13",
-        "19"
+        "3",
+        "4",
+        "5"
       ]
     },
     {
@@ -23,9 +23,9 @@
       "sub_title": "Click to view",
       "date": "0",
       "associated_talk": [
-        "11",
-        "14",
-        "20"
+        "6",
+        "7",
+        "8"
       ]
     },
     {
@@ -44,13 +44,12 @@
       "start": "13:00",
       "end": "14:00",
       "click_block": "false",
-      "sub_title": "Click to view",
+      "sub_title": "Click to View",
       "date": "0",
       "associated_talk": [
         "9",
-        "15",
-        "21",
-        "25"
+        "10",
+        "11"
       ]
     },
     {
@@ -59,13 +58,12 @@
       "start": "14:00",
       "end": "15:00",
       "click_block": "false",
-      "sub_title": "Click to view",
+      "sub_title": "Click to View",
       "date": "0",
       "associated_talk": [
-        "10",
-        "16",
-        "22",
-        "25"
+        "12",
+        "13",
+        "14"
       ]
     },
     {
@@ -74,13 +72,12 @@
       "start": "15:00",
       "end": "16:00",
       "click_block": "false",
-      "sub_title": "Click to view",
+      "sub_title": "Click to View",
       "date": "0",
       "associated_talk": [
-        "11",
-        "17",
-        "23",
-        "25"
+        "15",
+        "16",
+        "17"
       ]
     },
     {
@@ -89,32 +86,16 @@
       "start": "16:00",
       "end": "17:00",
       "click_block": "false",
-      "sub_title": "Click to view",
+      "sub_title": "Click to View",
       "date": "0",
       "associated_talk": [
-        "12",
         "18",
-        "24",
-        "25"
+        "19",
+        "20"
       ]
     },
     {
       "id": "7",
-      "title": "Browse Sessions",
-      "start": "09:00",
-      "end": "10:00",
-      "click_block": "false",
-      "sub_title": "Click to view",
-      "date": "1",
-      "associated_talk": [
-        "26",
-        "32",
-        "38",
-        "43"
-      ]
-    },
-    {
-      "id": "8",
       "title": "Browse Sessions",
       "start": "10:00",
       "end": "11:00",
@@ -122,10 +103,9 @@
       "sub_title": "Click to view",
       "date": "1",
       "associated_talk": [
-        "27",
-        "33",
-        "39",
-        "43"
+        "22",
+        "23",
+        "24"
       ]
     },
     {
@@ -137,10 +117,9 @@
       "sub_title": "Click to view",
       "date": "1",
       "associated_talk": [
-        "28",
-        "34",
-        "40",
-        "43"
+        "25",
+        "26",
+        "27"
       ]
     },
     {
@@ -159,39 +138,12 @@
       "start": "13:00",
       "end": "14:00",
       "click_block": "false",
-      "sub_title": "Click to view",
+      "sub_title": "Click to View",
       "date": "1",
       "associated_talk": [
+        "28",
         "29",
-        "35",
-        "41"
-      ]
-    },
-    {
-      "id": "12",
-      "title": "Browse Sessions",
-      "start": "14:00",
-      "end": "15:00",
-      "click_block": "false",
-      "sub_title": "Click to view",
-      "date": "1",
-      "associated_talk": [
-        "30",
-        "36",
-        "42"
-      ]
-    },
-    {
-      "id": "13",
-      "title": "Browse Sessions",
-      "start": "15:00",
-      "end": "16:00",
-      "click_block": "false",
-      "sub_title": "Click to view",
-      "date": "1",
-      "associated_talk": [
-        "31",
-        "37"
+        "30"
       ]
     }
   ]

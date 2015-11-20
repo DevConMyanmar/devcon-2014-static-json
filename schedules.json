@@ -2,187 +2,71 @@
   "sessions": [
     {
       "id": "1",
-      "title": "Opening Announcement",
-      "description": "Opening Announcement",
+      "title": "Opening Ceremony",
+      "description": "Opening Ceremony",
       "photo": "",
-      "date": "2014-11-15",
+      "date": "2015-11-21",
       "favourite": "true",
       "talk_type": "1",
       "room": "conference",
       "from_time": "08:30",
-      "to_time": "08:33",
+      "to_time": "09:45",
       "speakers": []
     },
     {
       "id": "2",
-      "title": "DevCon Welcome Speech",
-      "description": "DevCon Welcome Speech",
+      "title": "DevCon Keynote Speech",
+      "description": "DevCon Keynote Speech",
       "photo": "",
-      "date": "2014-11-15",
+      "date": "2015-11-21",
       "favourite": "true",
       "talk_type": "2",
       "room": "conference",
       "from_time": "08:33",
       "to_time": "08:45",
       "speakers": [
-        "39"
+        "24"
       ]
     },
     {
       "id": "3",
-      "title": "Opening Speech (VIP)",
-      "description": "Opening Announcement",
+      "title": "Technopreneurs, not just Developers",
+      "description": "Technopreneurs, not just Developers",
       "photo": "",
-      "date": "2014-11-15",
+      "date": "2015-11-21",
       "favourite": "true",
-      "talk_type": "2",
-      "room": "conference",
-      "from_time": "08:45",
-      "to_time": "09:00",
-      "speakers": []
-    },
-    {
-      "id": "4",
-      "title": "Software industry updates and about SIDC",
-      "description": "Software industry updates and about SIDC",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "true",
-      "talk_type": "2",
-      "room": "conference",
-      "from_time": "08:30",
-      "to_time": "08:33",
-      "speakers": [
-        "40"
-      ]
-    },
-    {
-      "id": "5",
-      "title": "Key success to become professionals",
-      "description": "Key success to become professionals",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "true",
-      "talk_type": "2",
-      "room": "conference",
-      "from_time": "09:00",
-      "to_time": "09:20",
-      "speakers": [
-        "41"
-      ]
-    },
-    {
-      "id": "6",
-      "title": "Photo Section",
-      "description": "Photo Section",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "true",
-      "talk_type": "2",
-      "room": "conference",
-      "from_time": "09:40",
-      "to_time": "10:00",
-      "speakers": []
-    },
-    {
-      "id": "7",
-      "title": "Cross country, cross culture product development",
-      "description": "Cross country, cross culture product development",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
       "talk_type": "2",
       "room": "conference",
       "from_time": "10:00",
       "to_time": "11:00",
       "speakers": [
-        "3"
+        "22"
       ]
     },
     {
-      "id": "8",
-      "title": "Project risk management  - an essential factor for successful project",
-      "description": "Project risk management  - an essential factor for successful project",
+      "id": "4",
+      "title": "တစ်ပင်တိုင် ၃၆၀",
+      "description": "တစ်ပင်တိုင် ၃၆၀",
       "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "conference",
-      "from_time": "11:00",
-      "to_time": "12:00",
-      "speakers": [
-        "11"
-      ]
-    },
-    {
-      "id": "9",
-      "title": "Web Security",
-      "description": "-",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "conference",
-      "from_time": "13:00",
-      "to_time": "14:00",
-      "speakers": [
-        "9"
-      ]
-    },
-    {
-      "id": "10",
-      "title": "Exploitations of the most critical applications security risks",
-      "description": "-",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "conference",
-      "from_time": "14:00",
-      "to_time": "15:00",
-      "speakers": [
-        "10"
-      ]
-    },
-    {
-      "id": "11",
-      "title": "Security",
-      "description": "Security",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "conference",
-      "from_time": "15:00",
-      "to_time": "16:00",
-      "speakers": [
-        "4"
-      ]
-    },
-    {
-      "id": "12",
-      "title": "Have a nice dream",
-      "description": "Have a nice dream",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "conference",
-      "from_time": "16:00",
-      "to_time": "17:00",
-      "speakers": [
-        "12"
-      ]
-    },
-    {
-      "id": "13",
-      "title": "Crashing an app 40 times a day: A dev's Lessons",
-      "description": "Crashing an app 40 times a day: A dev's Lessons",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
+      "date": "2015-11-21",
+      "favourite": "",
       "talk_type": "2",
       "room": "205",
+      "from_time": "10:00",
+      "to_time": "11:00",
+      "speakers": [
+        "5"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Next Hot Key Technology of the Web Application",
+      "description": "Next Hot Key Technology of the Web Application",
+      "photo": "",
+      "date": "2015-11-21",
+      "favourite": "",
+      "talk_type": "2",
+      "room": "203",
       "from_time": "10:00",
       "to_time": "11:00",
       "speakers": [
@@ -190,27 +74,72 @@
       ]
     },
     {
-      "id": "14",
-      "title": "Cocos2DX Game Development Engine",
-      "description": "Cocos2DX Game Development Engine",
+      "id": "6",
+      "title": "Business for Customized OS",
+      "description": "Business for Customized OS",
       "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
+      "date": "2015-11-21",
+      "favourite": "",
+      "talk_type": "2",
+      "room": "conference",
+      "from_time": "11:00",
+      "to_time": "12:00",
+      "speakers": [
+        "7"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Systems for the age of the Internet of Things",
+      "description": "Systems for the age of the Internet of Things",
+      "photo": "",
+      "date": "2015-11-21",
+      "favourite": "",
       "talk_type": "2",
       "room": "205",
       "from_time": "11:00",
       "to_time": "12:00",
       "speakers": [
-        "25"
+        "9"
       ]
     },
     {
-      "id": "15",
-      "title": "Be a programmer, for real",
-      "description": "Be a programmer, for real",
+      "id": "8",
+      "title": "Function the Ultimate (JavaScript)",
+      "description": "Function the Ultimate (JavaScript)",
       "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
+      "date": "2015-11-21",
+      "favourite": "",
+      "talk_type": "2",
+      "room": "203",
+      "from_time": "11:00",
+      "to_time": "12:00",
+      "speakers": [
+        "8"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Building Better Cross-Platform Mobile Apps Faster",
+      "description": "Building Better Cross-Platform Mobile Apps Faster",
+      "photo": "",
+      "date": "2015-11-21",
+      "favourite": "",
+      "talk_type": "2",
+      "room": "conference",
+      "from_time": "13:00",
+      "to_time": "14:00",
+      "speakers": [
+        "18"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "IoT for GPIO Zero",
+      "description": "Building Better Cross-Platform Mobile Apps Faster",
+      "photo": "",
+      "date": "2015-11-21",
+      "favourite": "",
       "talk_type": "2",
       "room": "205",
       "from_time": "13:00",
@@ -220,449 +149,349 @@
       ]
     },
     {
-      "id": "17",
-      "title": "The Art of killing bugs",
-      "description": "The Art of killing bugs",
+      "id": "11",
+      "title": "A Large-scale Study of Statistical Machine Translation Methods for Myanmar Language",
+      "description": "A Large-scale Study of Statistical Machine Translation Methods for Myanmar Language",
       "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
+      "date": "2015-11-21",
+      "favourite": "",
+      "talk_type": "2",
+      "room": "203",
+      "from_time": "13:00",
+      "to_time": "14:00",
+      "speakers": [
+        "13"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Software Project Management 101",
+      "description": "Software Project Management 101",
+      "photo": "",
+      "date": "2015-11-21",
+      "favourite": "",
+      "talk_type": "2",
+      "room": "conference",
+      "from_time": "14:00",
+      "to_time": "15:00",
+      "speakers": [
+        "3"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Secure Coding or Code with Security",
+      "description": "Secure Coding or Code with Security",
+      "photo": "",
+      "date": "2015-11-21",
+      "favourite": "",
       "talk_type": "2",
       "room": "205",
-      "from_time": "15:00",
-      "to_time": "16:00",
+      "from_time": "14:00",
+      "to_time": "15:00",
       "speakers": [
-        "29"
+        "10"
       ]
     },
     {
       "id": "14",
-      "title": "Cocos2DX Game Development Engine",
-      "description": "Cocos2DX Game Development Engine",
+      "title": "Developing Myanmar Automatic Speech Recognition and Text to Speech Systems",
+      "description": "Developing Myanmar Automatic Speech Recognition and Text to Speech Systems",
       "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
+      "date": "2015-11-21",
+      "favourite": "",
       "talk_type": "2",
-      "room": "205",
-      "from_time": "11:00",
-      "to_time": "12:00",
+      "room": "203",
+      "from_time": "14:00",
+      "to_time": "15:00",
+      "speakers": [
+        "12"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Collecting, Visualizing and Analyzing Web Application Logs: The Programmer's Way",
+      "description": "Collecting, Visualizing and Analyzing Web Application Logs: The Programmer's Way",
+      "photo": "",
+      "date": "2015-11-21",
+      "favourite": "",
+      "talk_type": "2",
+      "room": "conference",
+      "from_time": "15:00",
+      "to_time": "16:00",
       "speakers": [
         "25"
       ]
     },
     {
       "id": "16",
-      "title": "Lightening Talks",
-      "description": "-",
+      "title": "The Journey of a Mobile Developer",
+      "description": "The Journey of a Mobile Developer",
       "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
-      "talk_type": "3",
-      "room": "205",
-      "from_time": "14:00",
-      "to_time": "15:00",
-      "speakers": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "23",
-        "6",
-        "7",
-        "8"
-      ]
-    },
-    {
-      "id": "18",
-      "title": "What's new in Android 5.0 ?",
-      "description": "What's new in Android 5.0 ?",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
+      "date": "2015-11-21",
+      "favourite": "",
       "talk_type": "2",
       "room": "205",
-      "from_time": "16:00",
-      "to_time": "17:00",
-      "speakers": [
-        "32"
-      ]
-    },
-    {
-      "id": "19",
-      "title": "KISS",
-      "description": "KISS",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "102",
-      "from_time": "10:00",
-      "to_time": "11:00",
+      "from_time": "15:00",
+      "to_time": "16:00",
       "speakers": [
         "17"
       ]
     },
     {
-      "id": "20",
-      "title": "Quick Intro to Node.js",
-      "description": "Quick Intro to Node.js",
+      "id": "17",
+      "title": "Organizations Security",
+      "description": "Organizations Security",
       "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
+      "date": "2015-11-21",
+      "favourite": "",
       "talk_type": "2",
-      "room": "102",
-      "from_time": "11:00",
-      "to_time": "12:00",
+      "room": "205",
+      "from_time": "15:00",
+      "to_time": "16:00",
       "speakers": [
-        "22"
+        "26"
       ]
     },
     {
-      "id": "21",
-      "title": "Hello Zephir",
-      "description": "Hello Zephir",
+      "id": "18",
+      "title": "Robotic Frameworks",
+      "description": "Robotic Frameworks",
       "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
+      "date": "2015-11-21",
+      "favourite": "",
       "talk_type": "2",
-      "room": "102",
-      "from_time": "13:00",
-      "to_time": "14:00",
-      "speakers": [
-        "19"
-      ]
-    },
-    {
-      "id": "22",
-      "title": "My First Contact With Functional Programming",
-      "description": "This talk is based on the experience of a developer when he ventured into the world of functional programming with Haskell. Haskell is a profound language and learning it is a hugely rewarding experience. Coding in Haskell changes the way you think when you are approaching problems. Haskell helps to create software that is short, fast, and safe. Learning Haskell is whole lot of fun and you will have a wonderful experience learning it. One will have a better vision of functional paradigm in the course of learning Haskell and can venture into other functional programming languages too.",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "102",
-      "from_time": "14:00",
-      "to_time": "15:00",
+      "room": "conference",
+      "from_time": "16:00",
+      "to_time": "17:00",
       "speakers": [
         "20"
       ]
     },
     {
-      "id": "23",
-      "title": "Introduction to Elixir and concurrency",
-      "description": "Introduction to Elixir and concurrency",
+      "id": "19",
+      "title": "3D Printing Technology",
+      "description": "3D Printing Technology",
       "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
+      "date": "2015-11-21",
+      "favourite": "",
       "talk_type": "2",
-      "room": "102",
-      "from_time": "15:00",
-      "to_time": "16:00",
-      "speakers": [
-        "21"
-      ]
-    },
-    {
-      "id": "24",
-      "title": "Web Browser Automation",
-      "description": "Introduction to Elixir and concurrency",
-      "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "102",
+      "room": "205",
       "from_time": "16:00",
       "to_time": "17:00",
       "speakers": [
-        "14"
+        "23"
       ]
     },
     {
-      "id": "25",
-      "title": "Hands on experience with Unity3D",
-      "description": "Hands on experience with Unity3D",
+      "id": "20",
+      "title": "Introduction to Human Computer Interaction",
+      "description": "Introduction to Human Computer Interaction",
       "photo": "",
-      "date": "2014-11-15",
-      "favourite": "false",
-      "talk_type": "4",
-      "room": "mcf",
-      "from_time": "13:00",
-      "to_time": "16:00",
-      "speakers": [
-        "13",
-        "42"
-      ]
-    },
-    {
-      "id": "26",
-      "title": "Web and Mobile: The best of both",
-      "description": "Web and Mobile: The best of both",
-      "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
+      "date": "2015-11-21",
+      "favourite": "",
       "talk_type": "2",
+      "room": "203",
+      "from_time": "16:00",
+      "to_time": "17:00",
+      "speakers": [
+        "27"
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Women in IT Industry",
+      "description": "Women in IT Industry",
+      "photo": "",
+      "date": "2015-11-22",
+      "favourite": "",
+      "talk_type": "1",
       "room": "conference",
       "from_time": "09:00",
       "to_time": "10:00",
       "speakers": [
-        "1"
+        "11"
       ]
     },
     {
-      "id": "27",
-      "title": "Startup Ecosystem in Myanmar.",
-      "description": "Startup Ecosystem in Myanmar.",
+      "id": "22",
+      "title": "Better Frontend Development Quality Beyond Bootstrap",
+      "description": "Better Frontend Development Quality Beyond Bootstrap",
       "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
+      "date": "2015-11-22",
+      "favourite": "",
       "talk_type": "2",
       "room": "conference",
       "from_time": "10:00",
       "to_time": "11:00",
+      "speakers": [
+        "15"
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Making Unicode Friendly Mobile Apps",
+      "description": "Making Unicode Friendly Mobile Apps",
+      "photo": "",
+      "date": "2015-11-22",
+      "favourite": "",
+      "talk_type": "2",
+      "room": "205",
+      "from_time": "10:00",
+      "to_time": "11:00",
+      "speakers": [
+        "4"
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Project Management for ICT Infrastructure Implementation",
+      "description": "Project Management for ICT Infrastructure Implementation",
+      "photo": "",
+      "date": "2015-11-22",
+      "favourite": "",
+      "talk_type": "2",
+      "room": "203",
+      "from_time": "10:00",
+      "to_time": "11:00",
+      "speakers": [
+        "16"
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Responsibility & Developing Mindset",
+      "description": "Responsibility & Developing Mindset",
+      "photo": "",
+      "date": "2015-11-22",
+      "favourite": "",
+      "talk_type": "2",
+      "room": "conference",
+      "from_time": "11:00",
+      "to_time": "12:00",
+      "speakers": [
+        "29"
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Move to iOS",
+      "description": "Move to iOS",
+      "photo": "",
+      "date": "2015-11-22",
+      "favourite": "",
+      "talk_type": "2",
+      "room": "205",
+      "from_time": "11:00",
+      "to_time": "12:00",
+      "speakers": [
+        "19"
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Getting Your First Client as a Freelancer",
+      "description": "Getting Your First Client as a Freelancer",
+      "photo": "",
+      "date": "2015-11-22",
+      "favourite": "",
+      "talk_type": "2",
+      "room": "203",
+      "from_time": "11:00",
+      "to_time": "12:00",
       "speakers": [
         "2"
       ]
     },
     {
       "id": "28",
-      "title": " -  ",
-      "description": " - ",
+      "title": "Developer တစ်ယောက် အမှား တစ်သိန်း",
+      "description": "Developer တစ်ယောက် အမှား တစ်သိန်း",
       "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "conference",
-      "from_time": "11:00",
-      "to_time": "12:00",
-      "speakers": [
-        "23"
-      ]
-    },
-    {
-      "id": "29",
-      "title": "e-Government (Developer's perspective)",
-      "description": "e-Government (Developer's perspective)",
-      "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
+      "date": "2015-11-22",
+      "favourite": "",
       "talk_type": "2",
       "room": "conference",
       "from_time": "13:00",
       "to_time": "14:00",
       "speakers": [
-        "24"
+        "1"
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Computerized Secret Hiding",
+      "description": "Computerized Secret Hiding",
+      "photo": "",
+      "date": "2015-11-22",
+      "favourite": "",
+      "talk_type": "2",
+      "room": "205",
+      "from_time": "13:00",
+      "to_time": "14:00",
+      "speakers": [
+        "30"
       ]
     },
     {
       "id": "30",
-      "title": "Your business with Open Source software and Open Hardware",
-      "description": "Your business with Open Source software and Open Hardware",
+      "title": "Experiences on Teaching and Mentoring Technology in Myanmar",
+      "description": "Experiences on Teaching and Mentoring Technology in Myanmar",
       "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
+      "date": "2015-11-22",
+      "favourite": "",
       "talk_type": "2",
-      "room": "conference",
-      "from_time": "14:00",
-      "to_time": "15:00",
+      "room": "203",
+      "from_time": "13:00",
+      "to_time": "14:00",
       "speakers": [
         "15"
       ]
     },
     {
       "id": "31",
-      "title": "Mobile & Web",
-      "description": "Mobile & Web",
+      "title": "Oblivious Transition (Moving Into Unicode-era)",
+      "description": "Oblivious Transition (Moving Into Unicode-era) Panel Discussion",
       "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "2",
+      "date": "2015-11-22",
+      "favourite": "true",
+      "talk_type": "1",
       "room": "conference",
-      "from_time": "15:00",
-      "to_time": "16:00",
+      "from_time": "08:30",
+      "to_time": "09:45",
       "speakers": [
-        "43",
-        "44",
-        "5",
-        "4"
+        "4",
+        "30",
+        "31",
+        "32",
+        "33"
       ]
     },
     {
       "id": "32",
-      "title": "How to build simple analytics system using Ruby and MongoDB",
-      "description": "How to build simple analytics system using Ruby and MongoDB",
+      "title": "Townhall Meeting (Open Discussion)",
+      "description": "Townhall Meeting (Open Discussion)",
       "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "205",
-      "from_time": "09:00",
-      "to_time": "10:00",
-      "speakers": [
-        "5"
-      ]
+      "date": "2015-11-22",
+      "favourite": "true",
+      "talk_type": "1",
+      "room": "conference",
+      "from_time": "15:00",
+      "to_time": "16:30",
+      "speakers": []
     },
     {
       "id": "33",
-      "title": "How to become a JEDI master at Continuous Integration ?",
-      "description": "How to become a JEDI master at Continuous Integration ?",
+      "title": "Closing Ceremony",
+      "description": "Closing Ceremony",
       "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "205",
-      "from_time": "10:00",
-      "to_time": "11:00",
-      "speakers": [
-        "26"
-      ]
-    },
-    {
-      "id": "34",
-      "title": "Enterprise Mobile Application – challenges and solutions",
-      "description": "Enterprise Mobile Application – challenges and solutions",
-      "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "205",
-      "from_time": "11:00",
-      "to_time": "12:00",
-      "speakers": [
-        "27"
-      ]
-    },
-    {
-      "id": "35",
-      "title": "Crawling and precise data extraction with Apache Nutch",
-      "description": "Since internet and online media are become matured, the collection and analysis of data from varieties of internet sources play a very important role for businesses to make better decision and to serve their users with more relevant information. Here in this talk, the audience will gain knowledge on web crawler and html parsing to archive and analyze the content from the websites. The presentation will focus on matured and opensource web crawler called Apache Nutch and its weakness and strength in production systems.",
-      "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "205",
-      "from_time": "13:00",
-      "to_time": "14:00",
-      "speakers": [
-        "28"
-      ]
-    },
-    {
-      "id": "36",
-      "title": "Artificial Intelligence: A Brief History",
-      "description": "-",
-      "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "205",
-      "from_time": "14:00",
-      "to_time": "15:00",
-      "speakers": [
-        "13"
-      ]
-    },
-    {
-      "id": "37",
-      "title": "App Development for Web and Mobile with AngularJS",
-      "description": "AngularJS has become favourite choice for front-end developers for its low learning curve and large sets of features with solid support for both Web and Mobile Web. With the help of Ionic Framework, developing mobile web app or hybrid app has become swift and smooth. This talk will cover some basic technique and concept to create a simple yet interactive mobile and web app using AngularJS and Ionic Framework.",
-      "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "205",
-      "from_time": "15:00",
-      "to_time": "16:00",
-      "speakers": [
-        "18"
-      ]
-    },
-    {
-      "id": "38",
-      "title": "Mobile Value Added Services Development",
-      "description": "Mobile Value Added Services Development",
-      "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "102",
-      "from_time": "09:00",
-      "to_time": "10:00",
-      "speakers": [
-        "38"
-      ]
-    },
-    {
-      "id": "39",
-      "title": "Distributed POS System",
-      "description": "Distributed POS System",
-      "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "102",
-      "from_time": "10:00",
-      "to_time": "11:00",
-      "speakers": [
-        "45"
-      ]
-    },
-    {
-      "id": "40",
-      "title": "Use of Digital Certificate in Web applications",
-      "description": "Use of Digital Certificate in Web applications",
-      "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "102",
-      "from_time": "11:00",
-      "to_time": "12:00",
-      "speakers": [
-        "33",
-        "34"
-      ]
-    },
-    {
-      "id": "41",
-      "title": "Finished a Responsive Website within 16 hours with Bootstrap",
-      "description": "Finished a Responsive Website within 16 hours with Bootstrap",
-      "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "102",
-      "from_time": "13:00",
-      "to_time": "14:00",
-      "speakers": [
-        "35"
-      ]
-    },
-    {
-      "id": "42",
-      "title": "User authentication & authorization",
-      "description": "User authentication & authorization",
-      "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "2",
-      "room": "102",
-      "from_time": "14:00",
-      "to_time": "15:00",
-      "speakers": [
-        "36"
-      ]
-    },
-    {
-      "id": "43",
-      "title": "Android Workshop",
-      "description": "Android Workshop",
-      "photo": "",
-      "date": "2014-11-16",
-      "favourite": "false",
-      "talk_type": "4",
-      "room": "mcf",
-      "from_time": "09:00",
-      "to_time": "12:00",
+      "date": "2015-11-22",
+      "favourite": "true",
+      "talk_type": "1",
+      "room": "conference",
+      "from_time": "16:30",
+      "to_time": "17:00",
       "speakers": []
     }
-  ],
+  ]
 }

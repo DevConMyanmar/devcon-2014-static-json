@@ -2,287 +2,231 @@
   "speakers": [
     {
       "id": "1",
-      "name": "Wayne Tun Myint",
+      "name": "Wai Lin Tun",
       "title": "",
       "description": "",
-      "photo": ""
+      "photo": "http://devconmyanmar.org/2015/photos/wailintun.jpg"
     },
     {
       "id": "2",
-      "name": "Ravi Chhabra",
-      "title": "",
-      "description": "",
-      "photo": "https://scontent-a.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1619393_10151838336577714_1930747688_n.jpg?oh=cb2b947f52da5c1e81103d14a7f2f47e&oe=54EA6BC2"
-    },
-    {
-      "id": "3",
-      "name": "Aung Aung",
+      "name": "Ye Myat Min",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
-      "id": "4",
+      "id": "3",
       "name": "Ei Maung",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
-      "id": "5",
+      "id": "4",
       "name": "Thar Htet",
       "title": "",
-      "description": "https://scontent-b.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/156561_4351520317534_1917272354_n.jpg?oh=adc4f17a865a2f61582425009e88af5a&oe=551B1251",
-      "photo": ""
+      "description": "",
+      "photo": "http://devconmyanmar.org/2015/photos/tharhtet.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Noe Noe",
+      "title": "",
+      "description": "",
+      "photo": "http://devconmyanmar.org/2015/photos/Noe%20Noe.jpg"
     },
     {
       "id": "6",
-      "name": "Ye Lin Aung",
-      "title": "A curious programmer @ Zwenexsys. World class procrastinator.",
-      "description": "A curious programmer @ Zwenexsys. Highly motivated and result-oriented. World class procrastinator. Software architect-wannabe. Live and breathe open source. Love Calvin & Hobbes.",
-      "photo": "https://avatars.githubusercontent.com/u/275120?v=3"
-    },
-    {
-      "id": "7",
-      "name": "Myat Min Han",
-      "title": "",
-      "description": "",
-      "photo": "http://devconmyanmar.org/2014/img/Myat_Min_Han.jpg"
-    },
-    {
-      "id": "8",
-      "name": "Yadanar Tun",
+      "name": "Win Htoo Myint",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
-      "id": "9",
-      "name": "Thet Aung Min Latt",
+      "id": "7",
+      "name": "Ye Min Tun (Ko Ko Ye)",
       "title": "",
       "description": "",
-      "photo": "http://devconmyanmar.org/2014/img/ThetAung.jpg"
+      "photo": ""
+    },
+    {
+      "id": "8",
+      "name": "Thuya Myo Nyunt",
+      "title": "",
+      "description": "",
+      "photo": "http://devconmyanmar.org/2015/photos/Thuya%20Myo%20Nyunt.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Khine Wai Oo",
+      "title": "Software Engineer at Acroquest Myanmar",
+      "description": "",
+      "photo": "http://devconmyanmar.org/2015/photos/khinewaioo.jpg"
     },
     {
       "id": "10",
-      "name": "Ye Thura Thet",
+      "name": "Sai Tin Min Lu",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
       "id": "11",
-      "name": "Hoang Thi Thu Huong",
+      "name": "Zaw Win Htun",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
       "id": "12",
-      "name": "Khin Mrat Noe",
+      "name": "Win Pa Pa",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
       "id": "13",
-      "name": "Myint Kyaw Thu",
+      "name": "Ye Kyaw Thu",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
       "id": "14",
-      "name": "Ye Maung",
+      "name": "Soe Thiha Naung",
       "title": "",
       "description": "",
-      "photo": "http://devconmyanmar.org/2014/img/YeMaung.png"
+      "photo": "http://devconmyanmar.org/2015/photos/Soe%20Thiha%20Naung.jpg"
     },
     {
       "id": "15",
-      "name": "Ko Ko Ye",
-      "title": "",
-      "description": "",
-      "photo": ""
-    }
-    {
-      "id": "17",
-      "name": "Poe Poe Myint Swe",
-      "title": "Software Engineer at Zwenexsys",
-      "description": "Working as an Android Developer. Personally, I've made apps such as Internet Watch, Speak Your Wishes, etc. \nMy website is at http://poepoemyintswe.com. \nCheck my codes at https://github.com/PoePoeMyintSwe",
-      "photo": "http://devconmyanmar.org/2014/img/Poe_Poe_Myint_Swe.jpg"
-    },
-    {
-      "id": "18",
-      "name": "Sean Lin",
-      "title": "Web Evangelist",
-      "description": "Sean Lin is developer, entrepreneurs and web evangelist. He has been in Web Industry for past 10 years, working and consulting for companies like Six Apart, Google, Zoho and Salesforce. He spends most of his time working on front-end web projects for various start-ups using cutting edge languages and frameworks. He has recently relocated Myanmar to lay foundation for his enterprise start-up.",
-      "photo": "https://lh6.googleusercontent.com/1EZPNLmBd-RKDHWzBcx135P7bdZUj46zec87w_yfGrZ-P0mvvPMFDevZRh4QuSxZdARG=w2560-h1246"
-    },
-    {
-      "id": "19",
-      "name": "Nyan Lynn Htut",
-      "title": "",
-      "description": "",
-      "photo": "http://devconmyanmar.org/2014/img/nyan_%20Lynn_Htut.jpg"
-    },
-    {
-      "id": "20",
-      "name": "Arkar Min Aung",
-      "title": "iOS developer @ Nex",
-      "description": "Arkar is an iOS developer and he currently works at Nex. At Nex, Arkar and his team happily collaborate to build awesome mobile apps. \nArkar is a curious explorer and loves to indulge his free time finding new things out. \nThat’s how he found out about functional programming paradigm and saw a whole new world which he has never seen before. \nHe loves not just Computer Science but also various other fields, including Neuroscience, Mathematics, Astrophysics, Cryptography and Cars. \n\nTwitter: @ark_aung \nLinkedIn: http://www.linkedin.com/pub/arkar-aung/30/b01/8a0",
-      "photo": "http://devconmyanmar.org/2014/img/Arkar_Min_Aung(Nex).jpg"
-    },
-    {
-      "id": "21",
-      "name": "Soe Thiha",
-      "title": "",
-      "description": "",
-      "photo": "http://devconmyanmar.org/2014/img/Soe_Thiha.jpg"
-    },
-    {
-      "id": "22",
-      "name": "Thura Myo Nyunt",
-      "title": "",
-      "description": "",
-      "photo": "http://devconmyanmar.org/2014/img/ThuyaMyoNyunt.jpg"
-    },
-    {
-      "id": "23",
-      "name": "Mon Mon Myint Thu",
-      "title": "",
-      "description": "",
-      "photo": ""
-    },
-    {
-      "id": "24",
-      "name": "Aung Win Myat",
-      "title": "",
-      "description": "",
-      "photo": "http://devconmyanmar.org/2014/img/Aung_Win_Myat.jpg"
-    },
-    {
-      "id": "25",
-      "name": "Htoon Lin",
-      "title": "",
-      "description": "",
-      "photo": "http://devconmyanmar.org/2014/img/Htoon_Lin.jpg"
-    },
-    {
-      "id": "26",
-      "name": "Tin Aung Lin",
-      "title": "",
-      "description": "",
-      "photo": "http://devconmyanmar.org/2014/img/TinAungLin.jpg"
-    },
-    {
-      "id": "27",
-      "name": "Tran Tuan Anh",
-      "title": "",
-      "description": "",
-      "photo": "http://devconmyanmar.org/2014/img/TranTuanAnh.png"
-    },
-    {
-      "id": "28",
-      "name": "Ye Wint Ko",
-      "title": "CTO @ Bindez",
-      "description": "Cofounder and Chief Architect at a startup called Bindez. He has been in IT industry since 6 years ago developing information systems in the area of information retrieval, web archiving and content analysis. ",
-      "photo": "https://lh6.googleusercontent.com/3fK5OP27QHIO9jElqIKq8SBki0Gas0JDh06gch3Ot4JRT5FdQjXPiV6Nb5LothbYHXFO=w2560-h1246"
-    },
-    {
-      "id": "29",
-      "name": "Zaw Thet Aung",
-      "title": "",
-      "description": "",
-      "photo": "http://devconmyanmar.org/2014/img/ZawThetAung.jpg"
-    },
-    {
-      "id": "32",
-      "name": "Swan Htet Aung",
-      "title": "",
-      "description": "",
-      "photo": "http://devconmyanmar.org/2014/img/SwanHtetAung.jpg"
-    },
-    {
-      "id": "33",
-      "name": "Aye Aye Thin",
-      "title": "",
-      "description": "",
-      "photo": ""
-    },
-    {
-      "id": "34",
-      "name": "Nan Aye Me",
-      "title": "",
-      "description": "",
-      "photo": ""
-    },
-    {
-      "id": "35",
       "name": "Phyo Zaw Tun",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
-      "id": "36",
-      "name": "Htoo Myat Aung",
-      "title": "",
-      "description": "",
-      "photo": "http://devconmyanmar.org/2014/img/HtooMyatAung.jpg"
-    },
-    {
-      "id": "38",
-      "name": "Ravi Abeysekera",
+      "id": "16",
+      "name": "U Thet Aung Soe",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
-      "id": "39",
-      "name": "U Ye Yint Win",
+      "id": "17",
+      "name": "Myat Min Soe",
+      "title": "",
+      "description": "",
+      "photo": "http://devconmyanmar.org/2015/photos/myatminsoe.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Tin Maung Maung Yin",
+      "title": "",
+      "description": "",
+      "photo": "http://devconmyanmar.org/2015/photos/tinmgmgyin.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Ye Linn Wai",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
-      "id": "40",
-      "name": "Dr Tun Thura Thet",
+      "id": "20",
+      "name": "U Aung Soe Moe",
+      "title": "",
+      "description": "",
+      "photo": "http://devconmyanmar.org/2015/photos/aungsoemoe.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Ye Wint Htoo",
+      "title": "",
+      "description": "",
+      "photo": "http://devconmyanmar.org/2015/photos/yewinthtoo.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Peter Phone",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
-      "id": "41",
-      "name": "U Nyein Oo",
+      "id": "23",
+      "name": "Wai Phyo Thwin",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
-      "id": "42",
-      "name": "Thet Naing Swe",
+      "id": "24",
+      "name": "U Win Htein Win",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
-      "id": "43",
+      "id": "25",
+      "name": "Ye Thura Thet",
+      "title": "",
+      "description": "",
+      "photo": ""
+    },
+    {
+      "id": "26",
+      "name": "College Phyoth",
+      "title": "",
+      "description": "",
+      "photo": ""
+    },
+    {
+      "id": "27",
+      "name": "Ye Lin Kyaw",
+      "title": "",
+      "description": "",
+      "photo": ""
+    },
+    {
+      "id": "28",
+      "name": "Cho Zin Wint",
+      "title": "",
+      "description": "",
+      "photo": ""
+    },
+    {
+      "id": "29",
+      "name": "Zaw Min Aung",
+      "title": "",
+      "description": "",
+      "photo": ""
+    },
+    {
+      "id": "30",
       "name": "Htoo Myint Naung",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
-      "id": "44",
-      "name": "Thant Thet Khin Zaw",
+      "id": "31",
+      "name": "Dr. Tun Thura Thet",
       "title": "",
       "description": "",
       "photo": ""
     },
     {
-      "id": "45",
-      "name": "Wai Phyo Thwin",
+      "id": "32",
+      "name": "Dr. Zaw Tun",
+      "title": "",
+      "description": "",
+      "photo": ""
+    },
+    {
+      "id": "33",
+      "name": "Soe Naung Win",
       "title": "",
       "description": "",
       "photo": ""
